@@ -1,1 +1,1 @@
-# Abstractive_text_summarizer_telugu
+# Abstractive_Telugu_Text_Summarizer
